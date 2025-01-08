@@ -6,8 +6,8 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println(Main.moltiplicazione(3, 5));
-        System.out.println(Arrays.toString(Main.bo(new String[]{"valentina", "mario", "Giovanni", "astrubale", "martino"}, "HELLO")));
+        System.out.println(moltiplicazione(3, 5));
+        System.out.println(Arrays.toString(bo(new String[]{"valentina", "mario", "Giovanni", "astrubale", "martino"}, "HELLO")));
 
     }
 
